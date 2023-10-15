@@ -73,7 +73,7 @@ This is a reference application, each microservice has its own database and repr
 There is a BFF / API Gateway to manage the Basket / Order / Payment requests and data structure from responses.
 
 <p align="center">
-    <img alt="read before" src="https://user-images.githubusercontent.com/5068797/161207732-e4f67ce4-624d-4067-a756-67ee1bb553de.png" />
+    <img alt="read before" src="https://i.ibb.co/s35Wr6p/161207732-e4f67ce4-624d-4067-a756-67ee1bb553de.png"" />
 </p>
 
 ---
