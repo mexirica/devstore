@@ -18,7 +18,7 @@ A real-world reference application <img alt="Brasil" src="https://user-images.gi
     - JWT with rotactive public / private key    
     - GRPC
     - Background Services
-    - Entity Framework Core 6
+    - Entity Framework Core 7
 
 - Components / Services
     - RabbitMQ
