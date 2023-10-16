@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: DevStore - A microservices e-commerce reference application built with ASP.NET 7</h1>
+<h1 align="center">:file_cabinet: DevStore - A microservices e-commerce built with ASP.NET 7</h1>
 
 ## :memo: Description
 A real-world reference application implementing the most common and used technologies to share with the technical community the best way to develop full and complex applications with .NET
