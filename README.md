@@ -14,6 +14,7 @@ A real-world reference application implementing the most common and used technol
     - GRPC
     - Background Services
     - Entity Framework Core 7
+    - HealthChecks
 
 - Components / Services
     - RabbitMQ
