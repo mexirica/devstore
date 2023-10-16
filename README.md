@@ -246,6 +246,14 @@ So you can edit the Docker compose to just run the database and queue dependenci
         </sub>
       </a>
     </td>
+       <td align="center">
+      <a href="https://github.com/desenvolvedor-io">
+        <img src="https://avatars.githubusercontent.com/u/54584156?s=200&v=4" width="100px;" alt="Foto de Desenvolvedor.io no GitHub"/><br>
+        <sub>
+          <b>Desenvolvedor.io</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
