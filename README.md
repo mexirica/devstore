@@ -1,14 +1,9 @@
+<h1 align="center">:file_cabinet: DevStore - A microservices e-commerce reference application built with ASP.NET 7</h1>
 
-# DevStore - A microservices e-commerce reference application built with ASP.NET 7
+## :memo: Description
+A real-world reference application implementing the most common and used technologies to share with the technical community the best way to develop full and complex applications with .NET
 
-A real-world reference application <img alt="Brasil" src="https://user-images.githubusercontent.com/5068797/161345649-c7184fdc-2bc3-42a9-8fb6-6ffee9c8f9c2.png" width="20" height="14" /> implementing the most common and used technologies to share with the technical community the best way to develop full and complex applications with .NET
-
----
-
-###### This project was inspired by [EShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers), however the real motivation was to build it by "my way".
-
-## Technologies / Components implemented
-
+## :wrench: Technologies
 - .NET 7
     - ASP.NET MVC Core
     - ASP.NET WebApi
@@ -58,8 +53,6 @@ A real-world reference application <img alt="Brasil" src="https://user-images.gi
 - Specification Pattern
 - API Gateway / BFF
 
----
-
 ## Architecture Overview
 
 ### The entire application is based in an unique solution with 7 API's and one web application (MVC)
@@ -76,7 +69,6 @@ There is a BFF / API Gateway to manage the Basket / Order / Payment requests and
     <img alt="read before" src="https://i.ibb.co/s35Wr6p/161207732-e4f67ce4-624d-4067-a756-67ee1bb553de.png"" />
 </p>
 
----
 
 ## Getting Started
 You can run the DevStore project on any operating system. **Make sure you have installed docker in your environment.** ([Get Docker Installation](https://docs.docker.com/get-docker/))
@@ -242,3 +234,21 @@ So you can edit the Docker compose to just run the database and queue dependenci
     ]
 }   
 ```
+
+## :handshake: Collaborators
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mexirica">
+        <img src="https://avatars.githubusercontent.com/u/67772460?v=4" width="100px;" alt="Foto de Rodrigo Mecheri no GitHub"/><br>
+        <sub>
+          <b>mexirica</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## :dart: Status
+
+* Done
